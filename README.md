@@ -1,8 +1,7 @@
 # EWMA Crossover Backtest — QQQ
 
 A trend-following backtest of an EWMA (Exponentially Weighted Moving Average) 
-crossover strategy on QQQ (Nasdaq-100 ETF), built to demonstrate rigorous 
-backtest methodology — in particular, correct handling of lookahead bias ( using the shift).
+crossover strategy on QQQ (Nasdaq-100 ETF) handling of lookahead bias ( using the shift).
 
 ## Strategy
 
